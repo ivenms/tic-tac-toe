@@ -4,6 +4,17 @@ Welcome to the Tic Tac Toe project!
 
 This is a simple web-based implementation of the classic Tic Tac Toe game. Challenge a friend or play against the computer.
 
+## About This Project
+
+### Project Overview
+This project was developed using a rapid development approach, leveraging the power of AI-assisted coding. The tools utilized for generating the project include [bolt.new](https://bolt.new) and GitHub Copilot.
+
+### Deployment
+The application has been successfully deployed and is currently running on [GitHub Pages](https://pages.github.com/).
+
+### Project Timeline
+Notably, the entire development and deployment process was completed in under 30 minutes, showcasing the efficiency and speed of the tools and approach used.
+
 ## How to Play
 
 1. **Game Setup**
