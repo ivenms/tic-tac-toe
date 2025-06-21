@@ -1,6 +1,8 @@
 # Tic Tac Toe Game
 
-Welcome to the Tic Tac Toe game!
+Welcome to the Tic Tac Toe project!
+
+This is a simple web-based implementation of the classic Tic Tac Toe game. Challenge a friend or play against the computer.
 
 ## How to Play
 
@@ -10,17 +12,21 @@ Welcome to the Tic Tac Toe game!
 
 2. **Taking Turns**
    - Players take turns placing their symbol (X or O) in an empty cell on the grid.
-   - To make a move, select the row and column where you want to place your symbol.
+   - Click on a cell to make your move.
 
 3. **Winning the Game**
-   - The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+   - The first player to align three marks in a row, column, or diagonal wins.
 
 4. **Draw**
-   - If all cells are filled and no player has three in a row, the game ends in a draw.
+   - If all cells are filled and no one wins, it's a draw!
 
 ## Controls
 
-- Follow the on-screen prompts to enter your move.
-- Enter the row and column numbers as instructed.
+- Click on a cell to place your symbol.
+- The game will prompt you for the next move.
+
+---
+
+## [Play Now...](https://ivenms.github.io/tic-tac-toe/)
 
 Enjoy the game!
